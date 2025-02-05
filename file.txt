@@ -7,3 +7,7 @@ Third commit
 Feature A - First commit
 
 Feature A - Second commit
+
+Feature B - First commit
+
+Feature B - Second commit
