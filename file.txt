@@ -11,3 +11,7 @@ Feature A - Second commit
 Feature B - First commit
 
 Feature B - Second commit
+
+Feature C - First commit
+
+Feature C - Second commit
